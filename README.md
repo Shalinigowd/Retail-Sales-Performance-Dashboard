@@ -74,23 +74,25 @@ Created Power BI dashboards with:
 
 # 📊 Dashboard Preview
 
-
 ## Main Dashboard
 
-![Dashboard](images/Main_Dashboard_View.png)
+<img src="images/Main_Dashboard_View.png" width="900">
 
 
-## Sales Trend Analysis
+## Monthly Sales Trend Analysis
 
-![Sales Trend](images/Sales_Trends_Analysis.png)
-
-
-## Product Category Analysis
-
-![Category Sales](images/Category_Wise_Sales.png)
+<img src="images/Sales_Trends_Analysis.png" width="700">
 
 
----
+## Product Category Sales Analysis
+
+<img src="images/Category_Wise_Sales.png" width="700">
+
+
+## Profit Margin Insights
+
+<img src="images/Profit_Margins_Insights.png" width="700">
+
 
 # 🏆 Key Insights & Results
 
