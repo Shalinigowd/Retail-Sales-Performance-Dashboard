@@ -10,34 +10,136 @@ This project analyzes retail sales data to track performance across key metrics 
 - **Dashboard_Screenshots.zip** → Screenshots of the dashboard visuals.
 - **Insights_Document.pdf** → Key insights and findings from the data.
 
-## 🔑 Key Features
-✅ **Data Cleaning & Transformation**: Handled using SQL in SSMS.  
-✅ **Dashboard Development**: Built interactive visuals in Power BI.  
-✅ **Insights & Trends**: Extracted key business insights from data.  
 
-## 🚀 Technologies Used
-- **SQL (SSMS)**
-- **Power BI**
-- **Excel**
+### File Description:
 
-## 🏆 Insights Summary
-- **Top-performing products** drive 60% of total sales.
-- **Seasonal trends** impact sales volume significantly.
-- **Customer behavior** insights help in marketing strategies.
+**Retail_Sales_Dashboard.pbix**  
+→ Interactive Power BI dashboard containing sales analysis and visualizations.
 
-## 💡 How to Use This Project
-1. Open `Retail_Sales_Dashboard.pbix` in Power BI.
-2. Connect to `Retail_Sales_Data.xlsx` if needed.
-3. Run `SQL_Queries.txt` in SSMS for data transformation.
-4. Explore `Insights_Document.pdf` for key takeaways.
+**Retail_Sales_Data.xlsx**  
+→ Raw retail dataset used for data analysis.
+
+**SQL_Queries.sql**  
+→ SQL queries used for data extraction, transformation, and analysis.
+
+**Dashboard_Screenshots/**  
+→ Dashboard visuals and reports.
 
 ---
 
-## ✨ About the Author
-👋 Hi, I'm **Shivam Siddhu**, a passionate data analyst skilled in SQL, Power BI, and Excel.  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-siddhu22)!
+# 🔑 Key Features
+
+## ✅ Data Cleaning & Transformation
+
+- Removed duplicate records
+- Handled missing values
+- Cleaned and prepared raw sales data
+- Performed data transformation using SQL and Excel
+
+
+## ✅ Sales Analysis
+
+Analyzed:
+
+- Total sales performance
+- Monthly sales trends
+- Product category contribution
+- Quantity vs revenue relationship
+- Customer purchase patterns
+
+
+## ✅ Interactive Dashboard Development
+
+Created Power BI dashboards with:
+
+- KPI tracking
+- Sales trend analysis
+- Product category analysis
+- Gender-wise sales insights
+- Filters for product and date analysis
+
 
 ---
 
-## ⭐ Support This Project
-If you found this project useful, consider giving it a ⭐ on GitHub!  
+# 🛠 Technologies Used
+
+- SQL (MySQL / SSMS)
+- Microsoft Excel
+- Power BI
+- Data Visualization
+- Data Analytics
+
+
+---
+
+# 📊 Dashboard Preview
+
+
+## Main Dashboard
+
+![Dashboard](images/Main_Dashboard_View.png)
+
+
+## Sales Trend Analysis
+
+![Sales Trend](images/Sales_Trends_Analysis.png)
+
+
+## Product Category Analysis
+
+![Category Sales](images/Category_Wise_Sales.png)
+
+
+---
+
+# 🏆 Key Insights & Results
+
+- Identified top-performing product categories contributing to overall revenue.
+- Analyzed monthly sales patterns to understand business trends.
+- Discovered relationship between quantity sold and revenue generation.
+- Created an interactive dashboard to improve sales reporting.
+- Generated data-driven insights to support business decision-making.
+
+---
+
+# 💡 Business Problem Solved
+
+Retail companies generate large amounts of sales data but need better visibility into:
+
+- Which products perform best?
+- Which categories generate more revenue?
+- How sales change over time?
+- What customer segments contribute most?
+
+This dashboard provides a centralized view of sales performance and helps teams make informed decisions.
+
+---
+
+# 🚀 How to Use This Project
+
+1. Download the repository.
+2. Open `Retail_Sales_Dashboard.pbix` using Power BI Desktop.
+3. Load `Retail_Sales_Data.xlsx` if required.
+4. Explore dashboards and insights.
+5. Run SQL queries for data analysis.
+
+
+---
+
+# 👩‍💻 About Me
+
+Hi, I'm **Shalini M**.
+
+I am an aspiring Data Analyst skilled in:
+
+- SQL
+- Excel
+- Power BI
+- Python
+- Data Visualization
+- Data Analysis
+
+
+---
+
+⭐ If you found this project useful, feel free to star this repository.
